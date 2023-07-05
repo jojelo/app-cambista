@@ -1,0 +1,5 @@
+D:\curso\arquitectura_hexagonal\app-cambista-solucion\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\entity\TipoCambioEntity.java
+D:\curso\arquitectura_hexagonal\app-cambista-solucion\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\repository\TipoCambioRepository.java
+D:\curso\arquitectura_hexagonal\app-cambista-solucion\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\mapper\TipoCambioH2Mapper.java
+D:\curso\arquitectura_hexagonal\app-cambista-solucion\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\adapter\TipoCambioAdapter.java
+D:\curso\arquitectura_hexagonal\app-cambista-solucion\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\mapper\TipoCambioH2MapperImpl.java

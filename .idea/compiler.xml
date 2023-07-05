@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="app-cambista-dominio" />
+        <module name="app-cambista-api-configuracion" />
+        <module name="app-cambista-aplicacion" />
+        <module name="app-cambista-adapter-in-apis-rest" />
+        <module name="app-cambista-adapter-out-dbs-sql-h2-springdata" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

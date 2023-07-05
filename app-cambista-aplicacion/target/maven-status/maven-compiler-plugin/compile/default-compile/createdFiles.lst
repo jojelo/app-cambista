@@ -1,0 +1,5 @@
+pe\bk\appcambista\aplicacion\ports\out\TipoCambioActualizarPort.class
+pe\bk\appcambista\aplicacion\ports\out\TipoCambioObtenerByMonedaPort.class
+pe\bk\appcambista\aplicacion\ports\in\tipocambio\TipoCambioConsultaUseCase.class
+pe\bk\appcambista\aplicacion\ports\in\tipocambio\TipoCambioActualizarUseCase.class
+pe\bk\appcambista\aplicacion\ports\services\TipoCambioService.class

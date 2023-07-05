@@ -1,0 +1,6 @@
+pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\entity\TipoCambioEntity.class
+pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\mapper\TipoCambioH2Mapper.class
+pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\entity\TipoCambioEntity$TipoCambioEntityBuilder.class
+pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\repository\TipoCambioRepository.class
+pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\adapter\TipoCambioAdapter.class
+pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\mapper\TipoCambioH2MapperImpl.class

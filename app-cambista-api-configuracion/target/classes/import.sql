@@ -1,0 +1,2 @@
+INSERT INTO tipocambio(id,moneda_origen,moneda_destino,monto,factor) VALUES(1,'soles','dolares', 3.70,1);
+INSERT INTO tipocambio(id,moneda_origen,moneda_destino,monto,factor) VALUES(2,'dolares','soles', 3.70,2);
