@@ -1,5 +1,5 @@
 #imagen base con su alias llamado builder
-FROM maven:3.6.3-jdk-11 as builder
+FROM maven:3.8.3-openjdk-17 as builder
 # crea una carpeta en el contenedor y te ubica dentro de la carpeta
 WORKDIR /usr/home/app
 # copia todo el proyecto de maquina hacia el contenedor

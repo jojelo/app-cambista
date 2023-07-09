@@ -2,14 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app-cambista-adapter-in-apis-rest/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app-cambista-adapter-in-apis-rest/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app-cambista-adapter-out-dbs-sql-h2-springdata/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app-cambista-adapter-out-dbs-sql-h2-springdata/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app-cambista-api-configuracion/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app-cambista-api-configuracion/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app-cambista-aplicacion/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app-cambista-aplicacion/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app-cambista-dominio/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/app-cambista-dominio/src/main/resources" charset="UTF-8" />
   </component>
 </project>

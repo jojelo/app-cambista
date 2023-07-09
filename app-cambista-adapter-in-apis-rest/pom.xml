@@ -15,8 +15,8 @@
         <maven-surefire.version>3.0.0-M7</maven-surefire.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <app-cambista-aplicacion.version>1.0-SNAPSHOT</app-cambista-aplicacion.version>
-        <spring-boot-starter-web.version>2.7.13</spring-boot-starter-web.version>
-        <spring-boot-starter-test.version>2.7.13</spring-boot-starter-test.version>
+        <spring-boot-starter-web.version>3.0.5</spring-boot-starter-web.version>
+        <spring-boot-starter-test.version>3.0.5</spring-boot-starter-test.version>
     </properties>
 
     <dependencies>
