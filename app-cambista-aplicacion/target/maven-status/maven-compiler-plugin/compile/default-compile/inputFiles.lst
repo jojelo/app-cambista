@@ -1,5 +1,8 @@
 D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\in\tipocambio\TipoCambioActualizarUseCase.java
 D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\in\tipocambio\TipoCambioConsultaUseCase.java
+D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\in\tipocambio\UsuarioObtenerByEmailUseCase.java
+D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\out\UsuarioObtenerByEmailPort.java
 D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\out\TipoCambioActualizarPort.java
 D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\services\TipoCambioService.java
 D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\out\TipoCambioObtenerByMonedaPort.java
+D:\reto-IBK\app-cambista\app-cambista-aplicacion\src\main\java\pe\bk\appcambista\aplicacion\ports\services\UsuarioService.java

@@ -1,4 +1,8 @@
+pe\bk\appcambista\dominio\Rol.class
 pe\bk\appcambista\dominio\TipoCambioConsulta.class
+pe\bk\appcambista\dominio\Rol$RolBuilder.class
 pe\bk\appcambista\dominio\TipoCambio$TipoCambioBuilder.class
 pe\bk\appcambista\dominio\TipoCambioConsulta$TipoCambioConsultaBuilder.class
+pe\bk\appcambista\dominio\Usuario$UsuarioBuilder.class
+pe\bk\appcambista\dominio\Usuario.class
 pe\bk\appcambista\dominio\TipoCambio.class

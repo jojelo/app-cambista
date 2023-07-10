@@ -1,5 +1,9 @@
 D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\adapter\TipoCambioAdapter.java
+D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\entity\UsuarioEntity.java
 D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\mapper\TipoCambioH2MapperImpl.java
 D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\repository\TipoCambioRepository.java
+D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\adapter\UsuarioAdapter.java
+D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\entity\RolEntity.java
 D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\mapper\TipoCambioH2Mapper.java
+D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\repository\UsuarioRepository.java
 D:\reto-IBK\app-cambista\app-cambista-adapter-out-dbs-sql-h2-springdata\src\main\java\pe\bk\appcambista\adapter\out\dbs\sql\h2\springdata\entity\TipoCambioEntity.java

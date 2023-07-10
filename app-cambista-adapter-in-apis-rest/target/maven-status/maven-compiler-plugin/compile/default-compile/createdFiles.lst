@@ -1,5 +1,6 @@
 pe\bk\appcambista\adapter\in\apis\rest\controller\TipoCambioRestControllerImpl.class
-pe\bk\appcambista\adapter\in\apis\rest\model\TipoCambioActualizarRequest.class
+pe\bk\appcambista\adapter\in\apis\rest\security\service\UserDetailsServiceImpl.class
+pe\bk\appcambista\adapter\in\apis\rest\security\JwtService.class
 pe\bk\appcambista\adapter\in\apis\rest\model\TipoCambioConsultaRequest$TipoCambioConsultaRequestBuilder.class
 pe\bk\appcambista\adapter\in\apis\rest\model\TipoCambioConsultaResponse.class
 pe\bk\appcambista\adapter\in\apis\rest\controller\TipoCambioRestController.class
@@ -7,4 +8,9 @@ pe\bk\appcambista\adapter\in\apis\rest\model\TipoCambioActualizarRequest$TipoCam
 pe\bk\appcambista\adapter\in\apis\rest\model\TipoCambioConsultaRequest.class
 pe\bk\appcambista\adapter\in\apis\rest\model\TipoCambioConsultaResponse$TipoCambioConsultaResponseBuilder.class
 pe\bk\appcambista\adapter\in\apis\rest\mapper\TipoCambioMapperImpl.class
+pe\bk\appcambista\adapter\in\apis\rest\security\service\UserDetailsImpl.class
+pe\bk\appcambista\adapter\in\apis\rest\model\TipoCambioActualizarRequest.class
+pe\bk\appcambista\adapter\in\apis\rest\security\JwtAuthenticationFilter.class
+pe\bk\appcambista\adapter\in\apis\rest\security\SecurityConfiguration.class
 pe\bk\appcambista\adapter\in\apis\rest\mapper\TipoCambioMapper.class
+pe\bk\appcambista\adapter\in\apis\rest\security\ApplicationConfig.class

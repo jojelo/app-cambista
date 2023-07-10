@@ -7,12 +7,16 @@ import pe.bk.appcambista.adapter.in.apis.rest.controller.TipoCambioRestControlle
 import pe.bk.appcambista.adapter.in.apis.rest.controller.TipoCambioRestControllerImpl;
 import pe.bk.appcambista.adapter.in.apis.rest.mapper.TipoCambioMapper;
 import pe.bk.appcambista.adapter.out.dbs.sql.h2.springdata.adapter.TipoCambioAdapter;
+import pe.bk.appcambista.adapter.out.dbs.sql.h2.springdata.adapter.UsuarioAdapter;
 import pe.bk.appcambista.adapter.out.dbs.sql.h2.springdata.mapper.TipoCambioH2Mapper;
 import pe.bk.appcambista.adapter.out.dbs.sql.h2.springdata.repository.TipoCambioRepository;
+import pe.bk.appcambista.adapter.out.dbs.sql.h2.springdata.repository.UsuarioRepository;
 import pe.bk.appcambista.aplicacion.ports.out.TipoCambioActualizarPort;
 import pe.bk.appcambista.aplicacion.ports.out.TipoCambioObtenerByMonedaPort;
+import pe.bk.appcambista.aplicacion.ports.out.UsuarioObtenerByEmailPort;
 import pe.bk.appcambista.aplicacion.ports.services.TipoCambioService;
 import org.springframework.context.annotation.Configuration;
+import pe.bk.appcambista.aplicacion.ports.services.UsuarioService;
 
 @Configuration
 public class GlobalConfiguration {
@@ -29,7 +33,15 @@ public class GlobalConfiguration {
   }
 
 
+  @Bean
+  UsuarioService usuarioService(UsuarioObtenerByEmailPort usuarioObtenerByEmailPort){
+    return new UsuarioService(usuarioObtenerByEmailPort);
+  }
 
+  @Bean
+  UsuarioAdapter usuarioAdapter(UsuarioRepository usuarioRepository) {
+    return new UsuarioAdapter(usuarioRepository);
+  }
 
 
 }
